@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+body{
+    font-family: 'Quicksand', sans-serif !important;
+    
+}
+.logo{
+    font-family: 'RocknRoll One', sans-serif !important;
+    font-size:25px;
+    color: #1c2e4a;
+}
+footer a{
+    color: grey;
+}
+footer a :hover{
+    color:#FDCE2A;
+}
+input{
+    border:none !important;
+    border-bottom :1px solid #ccc !important;
+}
+
+
+input:hover{
+    border:none !important;
+    box-shadow: none !important;
+    border-bottom :1px solid #1c2e4a !important ;
+   
+   
+}
+label{
+    font-size:12px;
+}
+@media only screen and (max-width: 500px) {
+    
+  }
+  
